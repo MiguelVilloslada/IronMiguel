@@ -16,7 +16,6 @@ group by rating;
 
 #Which kind of movies (rating) have a mean duration of more than two hours?
 select * from film;
-Select distinct(rating), special_features from film;
-where avg(length)>120
-group by special_features
-
+Select rating, avg(length) from film
+group by rating
+having avg(length)>120;
