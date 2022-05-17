@@ -6,9 +6,7 @@ AB Test
 We use the AB testing excel calculator.  
 
 
-<img width="281" alt="AB Test" src="https://user-images.githubusercontent.com/103429801/168814789-a511bcda-4752-43c2-ac49-f2e3e359c04a.png">
-
-
+<img width="277" alt="Screenshot 2022-05-17 at 17 18 32" src="https://user-images.githubusercontent.com/103429801/168847322-f6dc2518-0654-4921-b4df-fecbf13a6f42.png">
 
 
 
